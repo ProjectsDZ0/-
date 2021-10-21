@@ -1,0 +1,90 @@
+body{
+    background-color: burlywood;
+}
+.font-700{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(38, 95, 16);
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(54, 163, 48);
+    border-radius: 10px;
+    height: 55px;
+
+}
+.photo1{
+    display: inline-block;
+    height: 75px;
+    position:absolute;
+    top: 15px;
+    left: 10px;
+}
+.information{
+    display: inline-block;
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+.kontact{
+    color: black;
+}
+.s{
+    line-height: 35px;
+}
+.kontact:hover{
+    color: cornsilk;
+    font-weight: bold;
+
+}
+ul{
+    font-size: 20px;
+}
+.font-300{
+    color: rgb(9, 71, 7);
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    color: rgb(11, 136, 0);
+}
+a:hover{
+    color: black;
+}
+.font-300:hover {
+    color: rgb(210, 228, 148);
+    font-weight: bold;
+}
+.ul{
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    padding: 10px 5px ;
+}
+.Заголовок{
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.text{
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1px;
+}
+.Заголовок:hover{
+    color: rgb(54, 110, 40);
+}
+.box{
+    display: inline-block;
+}
+.photo2{
+    width: 350px;
+    height: 100px;
+    position: absolute;
+    right: 25px;
+    top: 100px;
+}
+.box1{
+    background-color: blanchedalmond;
+    border-radius: 10px;
+}
+
